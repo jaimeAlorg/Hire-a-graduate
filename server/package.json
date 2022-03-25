@@ -1,0 +1,16 @@
+{
+  "name": "hire-a-graduate-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jaime Arturo Álvarez Orgaz",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "pg": "^8.7.3"
+  }
+}
